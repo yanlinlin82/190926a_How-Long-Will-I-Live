@@ -7,3 +7,9 @@ Disclaim: This project is only a demostration for life-time data analysis, any r
 ## Results:
 
 ![](plot.png)
+
+![](plot.1.png)
+![](plot.2.png)
+![](plot.3.png)
+![](plot.4.png)
+![](plot.5.png)
